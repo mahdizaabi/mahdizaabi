@@ -1,5 +1,5 @@
 ###  ✨Projects available:
-<p style="color:blue;"># C Skills:</p>
+# C Skills:
 * Shell👋(collaboration)
 * Monty Interpreter
 * Printf(collaboration)
