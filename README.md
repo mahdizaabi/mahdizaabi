@@ -1,5 +1,5 @@
 ###  ✨Projects available:
-<div># C Skills:</div>
+<div style="color:blue;font-size:46px;"># C Skills:</div>
 * Shell👋(collaboration)
 * Monty Interpreter
 * Printf(collaboration)
