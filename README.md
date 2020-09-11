@@ -8,7 +8,7 @@
 # Python (Backend oriented):
 * Airbnb Clone(collaboration)
 * Airbnb DataBse Storage(MySQL/SQL Alchemy (ORM))
-* Airbnb Flask (collaboration CV: <a href="https://github.com/maleksal">Check my CV </a>and https://github.com/mohamedalisouissi25)
+* Airbnb Flask (collaboration with: <a href="https://github.com/maleksal">Malek Salem </a>and https://github.com/mohamedalisouissi25)
 <!--
 **mahdizaabi/mahdizaabi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
