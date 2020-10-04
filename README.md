@@ -46,7 +46,7 @@
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://logos-download.com/wp-content/uploads/2019/01/Puppet_Labs_Logo.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="80px" src="https://imgix.datadoghq.com/img/about/presskit/logo-h/logo_horizontal_purple.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/mahdizaabi/png_logos/blob/main/pngegg.png?raw=true" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://github.com/mahdizaabi/png_logos/blob/main/NGINX-logo-rgb-large.png?raw=true" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://github.com/mahdizaabi/png_logos/blob/main/NGINX-logo-rgb-large.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="GraphQL" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
