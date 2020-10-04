@@ -23,7 +23,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="58px" src="https://github.com/mahdizaabi/png_logos/blob/main/pngegg.png?raw=true" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="58px" src="https://github.com/mahdizaabi/png_logos/blob/main/pngegg.png?raw=true" />][Python]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="GraphQL" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" />][webdevplaylist]
@@ -84,4 +84,5 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://github.com/mahdizaabi/holberton-system_engineering-devops/tree/master/0x0C-web_server
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[Python]: https://github.com/mahdizaabi/holbertonschool-higher_level_programming
 
