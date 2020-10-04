@@ -57,11 +57,10 @@
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>:zap: Curriculum</summary>
   
 <!--START_SECTION:activity-->
 [<img align="left" alt="Visual Studio Code" src="https://github.com/mahdizaabi/png_logos/blob/main/low_level.png?raw=true" />]
-2. 💪 Opened PR [#13](https://https://github.com/mahdizaabi/AirBnB_clone_v4) in [codeSTACKr/codeSTACKr](https://github.com/mahdizaabi/AirBnB_clone_v4)
 
 <!--END_SECTION:activity-->
 
