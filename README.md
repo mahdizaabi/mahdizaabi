@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Only techno music and Berghain
+- ⚡ Night is my favorite time to study/work 
 
 ### Spotify Playing 🎧
 
