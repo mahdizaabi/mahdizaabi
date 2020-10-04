@@ -81,7 +81,7 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/mahdi_zaabi
 [youtube]: https://www.youtube.com/c/zaabimahdi/playlists?view_as=subscriber
-[instagram]: https://instagram.com/
+[instagram]: https://www.unreservedmedia.com/5-reasons-why-i-dont-like-instagram/
 [linkedin]: https://www.linkedin.com/in/mahdi-z-8430a61a1/
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
