@@ -67,11 +67,11 @@
   <details>
   <summary>:zap: High Level</summary>
 [<img align="left" alt="Visual Studio Code" src="https://github.com/mahdizaabi/png_logos/blob/main/High_level.png?raw=true" />]
-  </details>
+  </details><br />
   <details>
   <summary>:zap: system administration and devops</summary>
 [<img align="left" alt="Visual Studio Code" src="https://github.com/mahdizaabi/png_logos/blob/main/devops.png?raw=true" />]
-  </details>
+  </details><br />
 <!--END_SECTION:activity-->
 
 </details>
