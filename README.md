@@ -44,7 +44,7 @@
 ### Devops:
 
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://logos-download.com/wp-content/uploads/2019/01/Puppet_Labs_Logo.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="40px" src="https://imgix.datadoghq.com/img/about/presskit/logo-h/logo_horizontal_purple.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
