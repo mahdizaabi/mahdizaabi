@@ -60,7 +60,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://https://github.com/mahdizaabi/AirBnB_clone_v4) in [codeSTACKr/codeSTACKr](https://github.com/mahdizaabi/AirBnB_clone_v4)
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mahdizaabi/png_logos/blob/main/low_level.png?raw=true" />]
+https://github.com/mahdizaabi/png_logos/blob/main/low_level.png?raw=true
 2. 💪 Opened PR [#13](https://https://github.com/mahdizaabi/AirBnB_clone_v4) in [codeSTACKr/codeSTACKr](https://github.com/mahdizaabi/AirBnB_clone_v4)
 
 <!--END_SECTION:activity-->
