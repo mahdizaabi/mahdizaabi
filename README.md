@@ -45,7 +45,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://logos-download.com/wp-content/uploads/2019/01/Puppet_Labs_Logo.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="80px" src="https://github.com/mahdizaabi/png_logos/blob/main/pnghut_datadog-docker-amazon-web-services-mortar-data-inc-heart-flower_nb9aNsuwYh.png?raw=true" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/mahdizaabi/png_logos/blob/main/pngegg.png?raw=true" />][cssplaylist]
+[<img align="left" alt="CSS3" width="20px" src="https://github.com/mahdizaabi/png_logos/blob/main/pngegg.png?raw=true" />][cssplaylist]
 [<img align="left" alt="Sass" width="80px" src="https://github.com/mahdizaabi/png_logos/blob/main/NGINX-logo-rgb-large.png" />][cssplaylist]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
