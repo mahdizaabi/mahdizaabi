@@ -40,6 +40,7 @@
 
 <br />
 <br />
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://www.pinclipart.com/picdir/middle/55-552426_python-sticker-png-clipart.png" />][webdevplaylist]
