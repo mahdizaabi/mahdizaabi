@@ -41,7 +41,7 @@
 <br />
 <br />
 ### Devops:
-[<img align="left" alt="Terminal" width="26px" src="https://logos-download.com/wp-content/uploads/2019/01/Puppet_Labs_Logo-700x268.png" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://logos-download.com/wp-content/uploads/2019/01/Puppet_Labs_Logo-700x268.png" />]
 
 ---
 
