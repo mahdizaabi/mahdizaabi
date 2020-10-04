@@ -40,7 +40,7 @@
 <br />
 
 ### Devops:
-[<img align="left" alt="Visual Studio Code" width="52px" src="https://github.com/mahdizaabi/png_logos/blob/main/ubuntu.png?raw=true" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="52px" src="https://github.com/mahdizaabi/png_logos/blob/main/ubuntu2.png?raw=true" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://logos-download.com/wp-content/uploads/2019/01/Puppet_Labs_Logo.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="45px" src="https://github.com/mahdizaabi/png_logos/blob/main/pnghut_datadog-docker-amazon-web-services-mortar-data-inc-heart-flower_nb9aNsuwYh.png?raw=true" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="20px" src="https://github.com/mahdizaabi/png_logos/blob/main/ss.png?raw=true" />][cssplaylist]
