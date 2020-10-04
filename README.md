@@ -49,6 +49,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="80px" src="https://education.github.com/assets/pack/logo-travis-e2f839c66f8d7138d47843053872935cee7c534f3750421f2c19e483fb75f040.jpg" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="80px" src="https://education.github.com/assets/pack/logo-jetbrains-f8afd8b5c788367a5a6cfb33a70a8741be61e0c8b810c374a5d505f1466751a2.jpg" />][webdevplaylist]
 
 <br />
 <br />
