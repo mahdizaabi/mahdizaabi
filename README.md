@@ -2,7 +2,7 @@
 
 
 ## I'm a Full Stack Developer, !
-- 🌱 I’m currently learning everything 🤣
+- 🌱 passionate about computers since my childhood. 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Only techno and Berghain
