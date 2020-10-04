@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Only techno music and Berghain
+- ⚡ Only techno and Berghain
 - ⚡ It should be night and dark ...
 ### Spotify Playing 🎧
 
