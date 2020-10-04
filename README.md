@@ -61,7 +61,6 @@
   
 <!--START_SECTION:activity-->
 [<img align="left" alt="Visual Studio Code" src="https://github.com/mahdizaabi/png_logos/blob/main/low_level.png?raw=true" />]
-
 <!--END_SECTION:activity-->
 
 </details>
