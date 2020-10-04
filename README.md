@@ -58,7 +58,7 @@
 
 <details>
   <summary>:zap: Curriculum</summary>
-  
+  <br />
 <!--START_SECTION:activity-->
 <details>
   <summary>:zap: low level</summary>
