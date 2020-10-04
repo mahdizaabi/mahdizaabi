@@ -43,7 +43,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://logos-download.com/wp-content/uploads/2019/01/Puppet_Labs_Logo.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="45px" src="https://github.com/mahdizaabi/png_logos/blob/main/pnghut_datadog-docker-amazon-web-services-mortar-data-inc-heart-flower_nb9aNsuwYh.png?raw=true" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="20px" src="https://github.com/mahdizaabi/png_logos/blob/main/pngegg.png?raw=true" />][cssplaylist]
+[<img align="left" alt="CSS3" width="20px" src="https://github.com/mahdizaabi/png_logos/blob/main/ss.png?raw=true" />][cssplaylist]
 [<img align="left" alt="Sass" width="80px" src="https://github.com/mahdizaabi/png_logos/blob/main/NGINX-logo-rgb-large.png" />][cssplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
