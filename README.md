@@ -60,7 +60,10 @@
   <summary>:zap: Curriculum</summary>
   
 <!--START_SECTION:activity-->
+<details>
+  <summary>:zap: low level</summary>
 [<img align="left" alt="Visual Studio Code" src="https://github.com/mahdizaabi/png_logos/blob/main/low_level.png?raw=true" />]
+  </details>
 <!--END_SECTION:activity-->
 
 </details>
