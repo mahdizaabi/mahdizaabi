@@ -38,6 +38,8 @@
 [<img align="left" alt="CSS3" width="32px" src="https://generic-ui.com/assets/images/platform-logos/jquery.logo.jpg" />][cssplaylist]
 
 <br />
+<br />
+
 ### Devops:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mahdizaabi/png_logos/blob/main/ubuntu2.png?raw=true" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://logos-download.com/wp-content/uploads/2019/01/Puppet_Labs_Logo.png" />][webdevplaylist]
