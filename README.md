@@ -24,9 +24,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="58px" src="https://github.com/mahdizaabi/png_logos/blob/main/pngegg.png?raw=true" />][Python]
-\ 
-[<img align="left" alt="Sass" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][C]
-\ 
+[<img align="left" alt="Sass" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />][C] 
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="GraphQL" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1200px-Flask_logo.svg.png" />][webdevplaylist]
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
@@ -40,8 +38,6 @@
 [<img align="left" alt="CSS3" width="32px" src="https://generic-ui.com/assets/images/platform-logos/jquery.logo.jpg" />][cssplaylist]
 
 <br />
-<br />
-
 ### Devops:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/mahdizaabi/png_logos/blob/main/ubuntu2.png?raw=true" />][webdevplaylist]
 [<img align="left" alt="Visual Studio Code" width="40px" src="https://logos-download.com/wp-content/uploads/2019/01/Puppet_Labs_Logo.png" />][webdevplaylist]
