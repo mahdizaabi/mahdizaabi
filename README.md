@@ -84,8 +84,6 @@
 
 </details>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mZ_pS2LUtmQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 [website]: https://mahdizaabi.tecj
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/mahdi_zaabi
