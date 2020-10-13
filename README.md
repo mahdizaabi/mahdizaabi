@@ -11,8 +11,6 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/11169731981)
 
-[![](http://img.youtube.com/vi/5IrHzrg4qdQ/0.jpg)](http://www.youtube.com/watch?v=5IrHzrg4qdQ "")
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
