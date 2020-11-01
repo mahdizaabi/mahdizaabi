@@ -1,4 +1,4 @@
-### Hi there, I'm Mahdi - aka [crx14][website] 👋
+### I'm Mahdi - aka [crx14][website] 👋
 
 
 ## I'm a Full Stack Developer, !
