@@ -1,12 +1,8 @@
 ### I'm Mahdi - aka [crx14][website] 👋
 
 
-## I'm a Full Stack Developer, !
+## Full Stack Developer, !
 - 🌱 passionate about computers since my childhood.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Only techno and Berghain
-- ⚡ It should be night and dark ...
 
 ### Connect with me:
 
